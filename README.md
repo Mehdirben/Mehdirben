@@ -4,7 +4,7 @@ I'm **Mehdi Rtel Bennani**, a passionate Full Stack Engineering Student at the E
 ---
 
 ### About Me  
-🎓 **Full Stack Engineering Student** | 💻 **Part-time Teacher**  
+🎓 **Full Stack Engineering Student** | 💻 **Teacher**  
 I specialize in Full Stack development with a strong focus on creating practical, innovative, and sustainable solutions. My curiosity and drive for technological challenges push me to constantly explore new ways to improve efficiency and solve real-world problems.  
 
 - 🌍 Based in **Morocco**  
