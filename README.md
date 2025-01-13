@@ -1,5 +1,3 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mehdirben&label=Profile%20views&color=0e75b6&style=flat" alt="mehdirben" /> </p>
-
 # Hi there! 👋
 I'm **Mehdi Rtel Bennani**, a passionate Full Stack Engineering Student at the Euro-Mediterranean University of Fes and a Teacher at Algorithmics.  
 
