@@ -1,5 +1,5 @@
 # Hi there! 👋
-I'm **Mehdi Rtel Bennani**, a passionate Full Stack Engineering Student at the Euro-Mediterranean University of Fes and a Part-time Teacher at Algorithmics.  
+I'm **Mehdi Rtel Bennani**, a passionate Full Stack Engineering Student at the Euro-Mediterranean University of Fes and a Teacher at Algorithmics.  
 
 ---
 
