@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mehdirben&label=Profile%20views&color=0e75b6&style=flat" alt="mehdirben" /> </p>
+
 # Hi there! 👋
 I'm **Mehdi Rtel Bennani**, a passionate Full Stack Engineering Student at the Euro-Mediterranean University of Fes and a Teacher at Algorithmics.  
 
@@ -47,6 +49,9 @@ I specialize in Full Stack development with a strong focus on creating practical
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
   </a>
   <a href="https://wordpress.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" />
@@ -100,11 +105,16 @@ Here’s a snapshot of my GitHub activity:
 ### Top Repositories  
 Here are some of my notable projects:  
 
-<div width="100%" align="center">
-  <a href="https://github.com/Mehdirben/curavisionai" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mehdirben&repo=curavisionai&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/Mehdirben/WebDev-Course" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mehdirben&repo=WebDev-Course&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-</div>
+<a href="https://github.com/Mehdirben/curavisionai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mehdirben&repo=curavisionai&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="curavisionai" width="400" />
+</a>
+<a href="https://github.com/Mehdirben/WebDev-Course">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mehdirben&repo=WebDev-Course&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="WebDev-Course" width="400" />
+</a>
+
+<a href="https://github.com/Mehdirben/python_game_center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mehdirben&repo=python_game_center&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="python_game_center" width="400" />
+</a>
+<a href="https://github.com/Mehdirben/Excel-Formula-Processor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mehdirben&repo=Excel-Formula-Processor&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Excel-Formula-Processor" width="400" />
+</a>
