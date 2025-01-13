@@ -101,20 +101,3 @@ Here’s a snapshot of my GitHub activity:
 </a>
 
 ---
-
-### Top Repositories  
-Here are some of my notable projects:  
-
-<a href="https://github.com/Mehdirben/curavisionai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mehdirben&repo=curavisionai&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="curavisionai" width="400" />
-</a>
-<a href="https://github.com/Mehdirben/WebDev-Course">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mehdirben&repo=WebDev-Course&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="WebDev-Course" width="400" />
-</a>
-
-<a href="https://github.com/Mehdirben/python_game_center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mehdirben&repo=python_game_center&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="python_game_center" width="400" />
-</a>
-<a href="https://github.com/Mehdirben/Excel-Formula-Processor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mehdirben&repo=Excel-Formula-Processor&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Excel-Formula-Processor" width="400" />
-</a>
