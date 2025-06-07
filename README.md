@@ -68,9 +68,10 @@ I am an engineering student at the Euro-Mediterranean University of Fez, pursuin
 
 ### **Programming Instructor** – Algorithmics (Fez, Morocco)  
 **Sep 2024 – Present**  
-- Designed and delivered **interactive coding workshops** for K-12 and university-level students.  
-- Mentored teams through hands-on projects, strengthening their problem-solving and algorithmic thinking.  
-- Collaborated on curriculum development to integrate real-world use cases, modern frameworks, and best practices.
+- Crafted and delivered **story-driven, interactive coding workshops** for students aged 6–18 in Python, Scratch, JavaScript, and AI, leveraging Algorithmics’ adaptive platform to boost engagement and curiosity.
+- Mentored diverse project teams through hands-on applications, enhancing algorithmic thinking, problem-solving, and collaboration skills.  
+- Co-designed curriculum modules that integrate real-world use cases, modern frameworks, and gamified challenges to align lessons with industry best practices.  
+
 
 ---
 
