@@ -71,7 +71,7 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
 
 ### **Programming Instructor** – Algorithmics (Fez, Morocco)  
 **Sep 2024 – Present**  
-- Crafted and delivered **story-driven, interactive coding workshops** for students aged 6–18 in Python, Scratch, Game Design and AI.  
+- Delivered **story-driven, interactive coding workshops** for students aged 6–18 in Python, Scratch, Game Design and AI.  
 - Mentored diverse project teams through hands-on applications, enhancing algorithmic thinking, problem-solving, and collaboration skills.
 
 ---
