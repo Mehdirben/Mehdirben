@@ -16,7 +16,9 @@
 ---
 
 ## 🌟 About Me  
-I am an engineering student at the Euro-Mediterranean University of Fez, pursuing a Full Stack Engineering degree (2022–2027). My passion lies in designing **scalable**, **efficient**, and **sustainable** web applications. I thrive on solving complex technical challenges, experimenting with cutting-edge technologies, and mentoring others through hands-on learning. At heart, I’m a lifelong learner who loves to push the boundaries of what’s possible with code.  
+I am an engineering student at the Euro-Mediterranean University of Fez, pursuing a Full Stack Engineering degree (2022–2027). My passion lies in designing **scalable**, **efficient**, and **sustainable** web applications.  
+I thrive on solving complex technical challenges, experimenting with cutting-edge technologies, and mentoring others through hands-on learning.  
+At heart, I’m a lifelong learner who loves to push the boundaries of what’s possible with code.  
 
 - 🔭 Currently: Programming Instructor at **Algorithmics (Fez, Morocco)**  
 - 🎓 Engineering student specialising in Full Stack Development  
@@ -43,6 +45,7 @@ I am an engineering student at the Euro-Mediterranean University of Fez, pursuin
 ### Frameworks & Libraries  
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -68,10 +71,8 @@ I am an engineering student at the Euro-Mediterranean University of Fez, pursuin
 
 ### **Programming Instructor** – Algorithmics (Fez, Morocco)  
 **Sep 2024 – Present**  
-- Crafted and delivered **story-driven, interactive coding workshops** for students aged 6–18 in Python, Scratch, JavaScript, and AI, leveraging Algorithmics’ adaptive platform to boost engagement and curiosity.
-- Mentored diverse project teams through hands-on applications, enhancing algorithmic thinking, problem-solving, and collaboration skills.  
-- Co-designed curriculum modules that integrate real-world use cases, modern frameworks, and gamified challenges to align lessons with industry best practices.  
-
+- Crafted and delivered **story-driven, interactive coding workshops** for students aged 6–18 in Python, Scratch, Game Design and AI.  
+- Mentored diverse project teams through hands-on applications, enhancing algorithmic thinking, problem-solving, and collaboration skills.
 
 ---
 
@@ -80,95 +81,102 @@ I am an engineering student at the Euro-Mediterranean University of Fez, pursuin
 ### **Engineering Degree in Full Stack**  
 **Euro-Mediterranean University of Fez** (Fez, Morocco)  
 🎓 2022 – 2027 (In Progress)  
-> Comprehensive engineering curriculum with advanced courses in:  
+> Comprehensive curriculum covering:  
 > - Web Development (React, Node.js, Laravel)  
 > - Database Systems (MySQL, MongoDB, PostgreSQL, Supabase)  
 > - Artificial Intelligence fundamentals  
 
 ---
 
-## 🏆 Projects  
+<details>
+<summary>🏆 <strong>Projects</strong></summary>
 
-### 🔸 Digital Guide for Seniors  
-**Mar – Apr 2025**  
-- Open-source, accessible website aimed at helping older adults navigate technology.  
-- Features step-by-step tutorials on popular apps, social media platforms, and AI tools (e.g., ChatGPT).  
-- Designed with **large text**, **high-contrast visuals**, and **intuitive navigation** for maximum accessibility.
+- 💼 **Billing & Stock Management System** *(PostgreSQL, Jun 2025)*  
+  Designed and developed a relational database to manage billing and stock for a commercial company. Features include client, supplier, product, invoice, and inventory management with referential integrity and optimized performance.
 
-### 🔸 Python Game Center  
-**Jan 2025**  
-- A sleek, dark-themed collection of classic games (2048, Tic Tac Toe, Snake) built with Python & Tkinter.  
-- Responsive window resizing, smooth navigation, high score tracking, and game-save functionality.  
-- Demonstrates OO-design principles, event-driven programming, and UI/UX optimization.
+- 🌐 **Full-Featured Social Media Application** *(Laravel 12, May–Jun 2025)*  
+  Built a scalable social platform replicating Facebook’s core features: posts, comments, likes, friend requests, real-time messaging, and notifications — all with a modern, responsive UI optimized for engagement.
 
-### 🔸 Web Development Learning Platform  
-**Dec 2024 – Jan 2025**  
-- Interactive platform teaching HTML5, CSS3, and JavaScript through **hands-on coding challenges**.  
-- Real-time feedback, responsive design exercises, and a gamified progress tracker.  
-- Backend built with Node.js; frontend styled using TailwindCSS and modern ES6 modules.
+- 👵 **Digital Guide for Seniors** *(Mar–Apr 2025)*  
+  Created an open-source, accessible website helping older adults navigate technology. Includes tutorials on apps, social media, AI tools like ChatGPT, with large fonts, clear visuals, and intuitive navigation.
 
-### 🔸 Mobile Phone Project (Embedded Electronics)  
-**Mar – May 2024**  
-- Developed a custom mobile phone prototype using an **ESP32** microcontroller + **SIM800L** GSM module.  
-- Integrated a TFT touchscreen for user interface: menu navigation, calling, and SMS functionality.  
-- Firmware written in C/C++. Showcases embedded systems design, real-time constraints, and low-level hardware integration.
+- 🎮 **Python Game Center** *(Tkinter, Jan 2025)*  
+  Developed a collection of classic games (2048, Tic Tac Toe, Snake) in Python using Tkinter. Features a sleek dark theme, responsive layout, smooth navigation, high score tracking, and save/load functionality.
+
+- 📚 **Web Development Learning Platform** *(Dec 2024–Jan 2025)*  
+  Interactive platform for teaching HTML5, CSS3, and JavaScript through hands-on coding challenges and responsive design exercises.
+
+- 📱 **Mobile Phone Project (Embedded Electronics)** *(Mar–May 2024)*  
+  Built a mobile phone using ESP32 and SIM800L modules with a TFT touchscreen interface, enabling making and receiving calls.
+
+</details>
 
 ---
 
-## 🚀 Hackathons & Achievements  
+<details>
+<summary>🚀 <strong>Hackathons & Achievements</strong></summary>
 
-- 🥇 **1st Place – Ainnovathon 2025 Hackathon**  
-  - Hosted by Tamwilcom & Université Euromed de Fès (Apr 2025).  
-  - Led a 24-hour sprint to build an **AI-powered solution** that impressed judges with creativity and impact.
+- 🕊️ **DecentraFor – Hack for Gaza** *(Jul 2025)*  
+  Developed a cross-platform Flutter app integrating PDF library and educational forum with real-time chat, offline support, and upcoming decentralized mesh networking for resilient community-driven learning.
 
-- 🏅 **HackAI Morocco at UM6P**  
-  - Selected among 25 teams from 200+ applicants (May 2025).  
-  - Co-created **TruthSeeker**, an AI assistant uncovering bias and missing context in Palestine news.  
-  - Recognized as a favorite project by Dr. Kaoutar El Maghraoui.
+- 🤖 **HackAI Morocco at UM6P** *(May 2025)*  
+  Selected among 25 teams from 200+ applicants for a 4-day hackathon. Developed *TruthSeeker*, an AI assistant uncovering bias, missing context, and conflicting narratives in news about Palestine. Praised by Dr. Kaoutar El Maghraoui.
 
-- 🌟 **CuraVision AI** – MoroccoAI InnovAI Hackathon (Nov 2024)  
-  - Developed a Flutter app providing **AI-powered X-ray analysis** to detect skeletal issues.  
-  - Technologies: Flutter, Dart, Firebase, TensorFlow Lite.
+- 🏆 **1st Place – Ainnovathon 2025** *(Apr 2025)*  
+  Won 1st place by developing an innovative AI-based orientation platform for students during a 24-hour sprint. Recognized for creativity, collaboration, and impact.
 
-- 🥉 **Smart Bin** – Mediterranean Smart Cities Hackathon (May 2024)  
-  - Secured 5th place for an intelligent waste-management bin prototype.  
+- 🩻 **CuraVision AI – MoroccoAI InnovAI Hackathon** *(Nov 2024)*  
+  Built a Flutter app providing AI-powered X-ray analysis to detect skeletal issues and deliver clear diagnostic reports. Developed with Flutter, Dart, Firebase, and advanced AI models to improve healthcare access.
 
----
+- ♻️ **Smart Bin – Mediterranean Smart Cities Hackathon** *(May 2024)*  
+  Achieved 5th place with an intelligent waste bin project aimed at improving urban waste management.
 
-## 📜 Certifications  
-
-- **UI/UX Design Specialization** – California Institute of the Arts (May 2025)  
-  - Courses: Visual Elements of UI Design, UX Design Fundamentals, Wireframes to Prototypes, IA Strategy.
-
-- **Oracle Java Foundations** (Oracle Cloud Infrastructure) (Mar 2025)  
-  - Covered Java fundamentals: data types, OOP, exceptions, and cloud deployment basics.
-
-- **DALF C1** — Advanced Diploma in French Language (Jan 2022)  
+</details>
 
 ---
 
-## 🌐 Languages  
+<details>
+<summary>📜 <strong>Certifications & Professional Development</strong></summary>
+
+- 🎨 **UI/UX Design Specialization**  
+  *California Institute of the Arts* — *May 2025*  
+  Comprehensive training in user experience design principles, wireframing, prototyping, and usability testing to create intuitive and engaging digital interfaces.
+
+- ☁️ **Oracle Java Foundations**  
+  *Oracle Cloud Infrastructure* — *March 2025*  
+  Mastered foundational Java programming and cloud-native development concepts, emphasizing scalable, secure application design on OCI.
+
+- 🇫🇷 **DALF C1 – Diplôme Approfondi de Langue Française**  
+  *Advanced French Diploma* — *January 2022*  
+  Official recognition of advanced French language proficiency, covering fluency in professional and academic communication.
+
+</details>
+
+---
+
+<details>
+<summary>🌐 <strong>Languages</strong></summary>
 
 - 🇫🇷 French – Bilingual  
 - 🇬🇧 English – Professional Proficiency  
 - 🇲🇦 Arabic – Native  
 
----
-
-## 🎯 Interests  
-
-- 🚴 **Cycling** | ♟️ **Chess** | ⚽ **Soccer** | 🏓 **Ping Pong**  
-- 🤖 **AI Trends** | 🌐 **Web Development** | 🧳 **Travel & Exploration**  
+</details>
 
 ---
 
-## 💬 Let’s Connect!  
+<details>
+<summary>🎯 <strong>Interests</strong></summary>
 
-Feel free to reach out if you want to collaborate on open source, chat about AI & web, or just say hello:
+- 🚴 Cycling  
+- ♟️ Chess  
+- ⚽ Soccer  
+- 🏓 Ping Pong  
+- 🤖 AI Trends  
+- 🌐 Web Development  
+- 🧳 Travel & Exploration  
 
-- 📫 Email: [rmehdib@gmail.com](mailto:rmehdib@gmail.com)  
-- 💼 LinkedIn: [Mehdi Rtel Bennani](https://www.linkedin.com/in/mehdi-rtel-bennani)  
-- 🌐 Portfolio: *(Coming soon!)*  
+</details>
 
 ---
 
@@ -176,16 +184,15 @@ Feel free to reach out if you want to collaborate on open source, chat about AI 
 
 <div align="center">
   <a href="https://github.com/Mehdirben">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mehdirben&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Mehdirben’s GitHub Stats" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mehdirben&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
   </a>
   <a href="https://github.com/Mehdirben">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdirben&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdirben&layout=compact&theme=radical&hide_border=true" />
   </a>
 </div>
 
 ---
 
 <p align="center">
-  <em>“The best way to predict the future is to invent it.”</em>  
-  – Alan Kay
+  <em>“The best way to predict the future is to invent it.”</em> – Alan Kay
 </p>
