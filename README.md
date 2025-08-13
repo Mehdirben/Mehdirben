@@ -83,8 +83,8 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
 🎓 2022 – 2027 (In Progress)  
 > Comprehensive curriculum covering:  
 > - Web Development (React, Node.js, Laravel)  
-> - Database Systems (MySQL, MongoDB, PostgreSQL, Supabase)  
-> - Artificial Intelligence fundamentals  
+> - Database Systems (MySQL, MongoDB, PostgreSQL)  
+> - Artificial Intelligence  
 
 ---
 
