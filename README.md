@@ -180,19 +180,6 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
 
 ---
 
-## 📊 GitHub Stats & Top Languages  
-
-<div align="center">
-  <a href="https://github.com/Mehdirben">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mehdirben&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/Mehdirben">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdirben&layout=compact&theme=radical&hide_border=true" />
-  </a>
-</div>
-
----
-
 <p align="center">
   <em>“The best way to predict the future is to invent it.”</em> – Alan Kay
 </p>
