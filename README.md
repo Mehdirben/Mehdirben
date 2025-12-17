@@ -183,7 +183,7 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
 <summary>🤝 <strong>Volunteer & Leadership</strong></summary>
 
 - 🎓 **Digital Skill Leader** – DigiClub, UEMF *(2024 – Present)*  
-  Lead digital skills initiatives and workshops. Conducted Git/GitHub training sessions and created a website guide covering Git, GitHub, Copilot, and deployment.
+  Led Git/GitHub training, created a guide website, and developed a cyberpunk-themed web interface for controlling robots via ESP32.
 
 </details>
 
@@ -204,12 +204,12 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
 <summary>🎯 <strong>Interests</strong></summary>
 
 - 🚴 Cycling  
+- 🧗 Hiking  
 - ♟️ Chess  
-- ⚽ Soccer  
-- 🏓 Ping Pong  
-- 🤖 AI Trends  
-- 🌐 Web Development  
-- 🧳 Travel & Exploration  
+- 🤖 AI  
+- 💻 Coding  
+- 🛠️ Building  
+- 🧳 Travel  
 
 </details>
 
