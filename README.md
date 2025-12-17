@@ -183,7 +183,7 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
 <summary>🤝 <strong>Volunteer & Leadership</strong></summary>
 
 - 🎓 **Digital Skill Leader** – DigiClub, UEMF *(2024 – Present)*  
-  Lead digital skills initiatives and workshops. Conducted Git/GitHub training sessions for fellow students.
+  Lead digital skills initiatives and workshops. Conducted Git/GitHub training sessions and created a website guide covering Git, GitHub, Copilot, and deployment.
 
 </details>
 
