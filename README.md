@@ -119,6 +119,9 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
 - 🌐 **Full-Featured Social Media Application** *(Laravel 12, May–Jun 2025)*  
   Built a scalable social platform replicating Facebook's core features: posts, comments, likes, friend requests, real-time messaging, and notifications — all with a modern, responsive UI optimized for engagement.
 
+- 🎁 **Mystery Gifts (GITEX 2025 Morocco)** *(Next.js, Supabase – Apr 2025)*  
+  AI-powered gift discovery platform using conversational search and personalized recommendations. Selected for GITEX 2025 Morocco.
+
 - 👵 **Digital Guide for Seniors** *(Mar–Apr 2025)*  
   Created an open-source, accessible website helping older adults navigate technology. Includes tutorials on apps, social media, AI tools like ChatGPT, with large fonts, clear visuals, and intuitive navigation.
 
@@ -171,6 +174,16 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
 - 🇫🇷 **DALF C1 – Diplôme Approfondi de Langue Française**  
   *Advanced French Diploma* — *January 2022*  
   Official recognition of advanced French language proficiency, covering fluency in professional and academic communication.
+
+</details>
+
+---
+
+<details>
+<summary>🤝 <strong>Volunteer & Leadership</strong></summary>
+
+- 🎓 **Digital Skill Leader** – DigiClub, UEMF *(2024 – Present)*  
+  Lead digital skills initiatives and workshops. Conducted Git/GitHub training sessions for fellow students.
 
 </details>
 
