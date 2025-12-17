@@ -110,11 +110,11 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
 <details>
 <summary>🏆 <strong>Projects</strong></summary>
 
+- 🐳 **Budget Management App (Docker Swarm)** *(Angular, Node.js, PostgreSQL – Dec 2025)*  
+  Deployed a full-stack budget management application on a 3-node DigitalOcean Docker Swarm cluster with service replication and high availability.
+
 - 📝 **Notty – Note-Taking Platform** *(React, Node.js, Express, MongoDB – Nov–Dec 2025)*  
   Modern, feature-rich note-taking app with a clean UI and robust backend for seamless note management and organization.
-
-- � **Budget Management App (Docker Swarm)** *(Angular, Node.js, PostgreSQL – Dec 2025)*  
-  Deployed a full-stack budget management application on a 3-node DigitalOcean Docker Swarm cluster with service replication and high availability.
 
 - 🌐 **Full-Featured Social Media Application** *(Laravel 12, May–Jun 2025)*  
   Built a scalable social platform replicating Facebook's core features: posts, comments, likes, friend requests, real-time messaging, and notifications — all with a modern, responsive UI optimized for engagement.
