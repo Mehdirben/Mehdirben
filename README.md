@@ -119,7 +119,7 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
   Modern, feature-rich note-taking app with a clean UI and robust backend for seamless note management and organization.
 
 - ✈️ **VoyageConnect – Travel Booking Platform** *(Jakarta EE, PostgreSQL, Docker – Dec 2025)*  
-  Comprehensive travel booking app for flights, hotels, and guided tours. Built with Java 21 MVC architecture, TailwindCSS interface, bcrypt authentication, and admin dashboard. Containerized with Docker, deployed on DigitalOcean via Coolify with SSL/TLS.
+  Comprehensive travel booking app for flights, hotels, and guided tours. Built with Jakarta EE MVC architecture, TailwindCSS interface, bcrypt authentication, and admin dashboard. Containerized with Docker, deployed on DigitalOcean via Coolify with SSL/TLS.
 
 - 🌐 **Full-Featured Social Media Application** *(Laravel 12, May–Jun 2025)*  
   Built a scalable social platform replicating Facebook's core features: posts, comments, likes, friend requests, real-time messaging, and notifications — all with a modern, responsive UI optimized for engagement.
