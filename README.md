@@ -53,6 +53,8 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img alt="JavaEE" src="https://img.shields.io/badge/-JavaEE-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -116,6 +118,9 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
 - 📝 **Notty – Note-Taking Platform** *(React, Node.js, Express, MongoDB – Nov–Dec 2025)*  
   Modern, feature-rich note-taking app with a clean UI and robust backend for seamless note management and organization.
 
+- ✈️ **VoyageConnect – Travel Booking Platform** *(Jakarta EE, PostgreSQL, Docker – Dec 2025)*  
+  Comprehensive travel booking app for flights, hotels, and guided tours. Built with Java 21 MVC architecture, TailwindCSS interface, bcrypt authentication, and admin dashboard. Containerized with Docker, deployed on DigitalOcean via Coolify with SSL/TLS.
+
 - 🌐 **Full-Featured Social Media Application** *(Laravel 12, May–Jun 2025)*  
   Built a scalable social platform replicating Facebook's core features: posts, comments, likes, friend requests, real-time messaging, and notifications — all with a modern, responsive UI optimized for engagement.
 
@@ -140,6 +145,9 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
 
 <details>
 <summary>🚀 <strong>Hackathons & Achievements</strong></summary>
+
+- 🛰️ **AtlasField – ESA ActInSpace Challenge** *(Jan 2026)*  
+  Built a satellite monitoring platform for farm and forest management using Sentinel imagery. Features AI-powered site assistant, environmental alerts, and vegetation indices. Developed with Next.js, FastAPI, and MapLibre GL at UEMF with the EIC.
 
 - 🕊️ **DecentraFor – Hack for Gaza** *(Jul 2025)*  
   Developed a cross-platform Flutter app integrating PDF library and educational forum with real-time chat, offline support, and upcoming decentralized mesh networking for resilient community-driven learning.
