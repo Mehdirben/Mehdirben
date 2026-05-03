@@ -56,6 +56,8 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
   <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img alt="JavaEE" src="https://img.shields.io/badge/-JavaEE-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -67,6 +69,7 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Oracle Administration" src="https://img.shields.io/badge/-Oracle_Administration-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
@@ -91,6 +94,7 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
 **Mar 2026 – Present**  
 
 - Founder & Lead Developer of Codecy. Architecting a comprehensive, browser-based ecosystem that modernizes how software engineering is taught.  
+- Selected for **GITEX Africa 2026** as part of the Morocco 300 startup delegation.  
 - Removing the friction of complex setups so students can focus purely on coding.
 
 ### **Programming Instructor** – Algorithmics (Fez, Morocco)  
