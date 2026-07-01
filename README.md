@@ -22,7 +22,7 @@ I am an engineering student at the Euro-Mediterranean University of Fez, pursuin
 I thrive on solving complex technical challenges, experimenting with cutting-edge technologies, and mentoring others through hands-on learning.  
 At heart, I’m a lifelong learner who loves to push the boundaries of what’s possible with code.  
 
-- 🔭 Currently: Programming Instructor at **Algorithmics (Fez, Morocco)**  
+- 🔭 Currently: Founder & Lead Developer at **Codecy**  
 - 🎓 Engineering student specialising in Full Stack Development  
 - 💡 Passionate about AI, web accessibility, and community-driven open source  
 
