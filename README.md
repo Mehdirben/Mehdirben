@@ -55,12 +55,24 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img alt="JavaEE" src="https://img.shields.io/badge/-JavaEE-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+### AI & RAG  
+
+<p>
+  <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img alt="LangGraph" src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img alt="Ollama" src="https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img alt="ChromaDB" src="https://img.shields.io/badge/-ChromaDB-3F3F3F?style=for-the-badge&logo=database&logoColor=white" />
+  <img alt="Gemini API" src="https://img.shields.io/badge/-Gemini_API-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white" />
 </p>
 
 ### Databases & Platforms  
@@ -69,6 +81,7 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img alt="Oracle Administration" src="https://img.shields.io/badge/-Oracle_Administration-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
@@ -79,8 +92,10 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Docker Swarm" src="https://img.shields.io/badge/-Docker_Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="JWT" src="https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
 </p>
 
 </div>
@@ -123,31 +138,46 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
 <details>
 <summary>🏆 <strong>Projects</strong></summary>
 
-- ✈️ **VoyageConnect – Travel Booking Platform** *(Jakarta EE, PostgreSQL, Docker – Dec 2025–Jan 2026)*  
+- 🛒 **AuraMarket – E-Commerce Platform** *(Angular 21, Spring Boot 3.4, PostgreSQL, Hibernate, JWT, Docker)*  
+  Full-stack web application featuring secure JWT authentication, dynamic catalog filtering, cart management, transactional checkout, and a card payment simulator with Luhn validation. Containerized via Docker Compose.
+
+- 🤖 **EduGraph – Multi-Agent AI Course Generator** *(LangGraph, Next.js, FastAPI, SQLite, Tavily)*  
+  An educational design platform orchestrating cooperative AI agents via LangGraph. Automatically conducts real-time web research, drafts modular course outlines, and generates interactive quizzes/coding challenges, supported by a Next.js frontend and FastAPI backend.
+
+- 🗳️ **Secure Voting Smart Contract** *(Solidity, Foundry, Remix, Ethereum)*  
+  A decentralized, secure voting smart contract featuring role-based authorization and double-voting guards. Equipped with a comprehensive Forge unit and property-based fuzz testing suite, alongside Remix IDE verification guidelines.
+
+- 🧠 **NoteLM — Retrieval-Augmented Generation (RAG) App** *(LangChain, Ollama, ChromaDB, Flask, Python)*  
+  A fully local learning assistant allowing users to organize documents into distinct notebooks and perform Q&A with source citations. Features similarity score thresholds, streaming responses, and local SQLite data persistence.
+
+- 🗣️ **Tarjama – Multilingual Translator Chrome Extension** *(Chrome Extension MV3, Gemini API, JS)*  
+  A sleek Manifest V3 Chrome Extension residing in the browser's Side Panel for seamless translations between major languages and Darija. Powered by Gemini 3.1 Flash Lite with context menu integration and secure local storage.
+
+- ✈️ **VoyageConnect – Travel Booking Platform** *(Jakarta EE, PostgreSQL, Docker)*  
   Comprehensive travel booking app for flights, hotels, and guided tours. Built with Jakarta EE MVC architecture, TailwindCSS interface, bcrypt authentication, and admin dashboard. Containerized with Docker, deployed on DigitalOcean via Coolify with SSL/TLS.
 
-- 🐳 **Budget Management App (Docker Swarm)** *(Angular, Node.js, PostgreSQL – Dec 2025)*  
+- 🐳 **Budget Management App (Docker Swarm)** *(Angular, Node.js, PostgreSQL)*  
   Deployed a full-stack budget management application on a 3-node DigitalOcean Docker Swarm cluster with service replication and high availability.
 
-- 📝 **Notty – Note-Taking Platform** *(React, Node.js, Express, MongoDB – Nov–Dec 2025)*  
+- 📝 **Notty – Note-Taking Platform** *(React, Node.js, Express, MongoDB)*  
   Modern, feature-rich note-taking app with a clean UI and robust backend for seamless note management and organization.
 
-- 🌐 **Full-Featured Social Media Application** *(Laravel 12, May–Jun 2025)*  
+- 🌐 **Full-Featured Social Media Application** *(Laravel 12)*  
   Built a scalable social platform replicating Facebook's core features: posts, comments, likes, friend requests, real-time messaging, and notifications — all with a modern, responsive UI optimized for engagement.
 
-- 🎁 **Mystery Gifts (GITEX 2025 Morocco)** *(Next.js, Supabase – Apr 2025)*  
+- 🎁 **Mystery Gifts (GITEX 2025 Morocco)** *(Next.js, Supabase)*  
   AI-powered gift discovery platform using conversational search and personalized recommendations. Selected for GITEX 2025 Morocco.
 
-- 👵 **Digital Guide for Seniors** *(Mar–Apr 2025)*  
+- 👵 **Digital Guide for Seniors**  
   Created an open-source, accessible website helping older adults navigate technology. Includes tutorials on apps, social media, AI tools like ChatGPT, with large fonts, clear visuals, and intuitive navigation.
 
-- 🎮 **Python Game Center** *(Tkinter, Jan 2025)*  
+- 🎮 **Python Game Center** *(Tkinter)*  
   Developed a collection of classic games (2048, Tic Tac Toe, Snake) in Python using Tkinter. Features a sleek dark theme, responsive layout, smooth navigation, high score tracking, and save/load functionality.
 
-- 📚 **Web Development Learning Platform** *(Dec 2024–Jan 2025)*  
+- 📚 **Web Development Learning Platform**  
   Interactive platform for teaching HTML5, CSS3, and JavaScript through hands-on coding challenges and responsive design exercises.
 
-- 📱 **Mobile Phone Project (Embedded Electronics)** *(Mar–May 2024)*  
+- 📱 **Mobile Phone Project (Embedded Electronics)**  
   Built a mobile phone using ESP32 and SIM800L modules with a TFT touchscreen interface, enabling making and receiving calls.
 
 </details>
