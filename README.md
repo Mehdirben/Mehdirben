@@ -63,6 +63,7 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img alt="Leaflet" src="https://img.shields.io/badge/-Leaflet-B9A037?style=for-the-badge&logo=leaflet&logoColor=white" />
 </p>
 
 ### AI & RAG  
@@ -187,6 +188,9 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
 <details>
 <summary>🚀 <strong>Hackathons & Achievements</strong></summary>
 
+- 🐪 **GhAIth – RallyIA Future Lab** *(2026)*  
+  Real-time desert safety and satellite telemetry console for Erg Chebbi (Merzouga). Features custom Leaflet GIS coordinate overlay, Open-Meteo API weather dynamics integration, active dune shift vectors, and flash flood alerts. Developed with Angular and TypeScript.
+
 - 🛰️ **AtlasField – ESA ActInSpace Challenge** *(Jan 2026)*  
   Built a satellite monitoring platform for farm and forest management using Sentinel imagery. Features AI-powered site assistant, environmental alerts, and vegetation indices. Developed with Next.js, FastAPI, and MapLibre GL at UEMF with the EIC.
 
@@ -232,7 +236,7 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
 <summary>🤝 <strong>Volunteer & Leadership</strong></summary>
 
 - 🎓 **Digital Skill Leader** – DigiClub, UEMF *(2024 – Present)*  
-  Led Git/GitHub training, created a guide website, and developed a cyberpunk-themed web interface for controlling robots via ESP32.
+  Led Git/GitHub training, built Club website, and created ESP32 cyberpunk robot controllers.
 
 </details>
 
