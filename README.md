@@ -73,7 +73,6 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
   <img alt="LangGraph" src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img alt="Ollama" src="https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
   <img alt="ChromaDB" src="https://img.shields.io/badge/-ChromaDB-3F3F3F?style=for-the-badge&logo=database&logoColor=white" />
-  <img alt="Gemini API" src="https://img.shields.io/badge/-Gemini_API-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white" />
 </p>
 
 ### Databases & Platforms  
@@ -82,6 +81,7 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img alt="Oracle Administration" src="https://img.shields.io/badge/-Oracle_Administration-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
@@ -92,7 +92,13 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
 
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Docker Compose" src="https://img.shields.io/badge/-Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Docker Swarm" src="https://img.shields.io/badge/-Docker_Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Keycloak" src="https://img.shields.io/badge/-Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" />
+  <img alt="SonarQube" src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img alt="Flyway" src="https://img.shields.io/badge/-Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" />
+  <img alt="Maven" src="https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
