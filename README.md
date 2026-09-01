@@ -113,6 +113,15 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
 - Selected for **GITEX Africa 2026** as part of the Morocco 300 startup delegation.  
 - Removing the friction of complex setups so students can focus purely on coding.
 
+### **Full Stack Developer Intern** – OmniShore
+
+**Jul 2026 – Aug 2026**
+
+- Designed and developed a white-label web application for managing organizational vehicle fleets using **Angular 19**, **Spring Boot 3.5 / Java 21**, and **SQL Server**.
+- Implemented a feature-first architecture covering vehicles, drivers, assignments, mission orders, fuel management, repairs, Excel import/export workflows, and operational dashboards.
+- Secured the platform with **Keycloak 24**, role-based access control, session management, a custom-branded login theme, and application-wide audit logging.
+- Containerized the frontend, backend, database, and identity services with **Docker Compose**, and added Flyway migrations plus automated frontend and backend quality checks.
+
 ### **Programming Instructor** – Algorithmics (Fez, Morocco)  
 
 **Sep 2024 – Mar 2026**  
