@@ -250,15 +250,15 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
 <summary>📜 <strong>Certifications & Professional Development</strong></summary>
 
 - 🎨 **UI/UX Design Specialization**  
-  *California Institute of the Arts* — *May 2025*  
+  *California Institute of the Arts*  
   Comprehensive training in user experience design principles, wireframing, prototyping, and usability testing to create intuitive and engaging digital interfaces.
 
 - ☁️ **Oracle Java Foundations**  
-  *Oracle Cloud Infrastructure* — *March 2025*  
+  *Oracle Cloud Infrastructure*  
   Mastered foundational Java programming and cloud-native development concepts, emphasizing scalable, secure application design on OCI.
 
 - 🇫🇷 **DALF C1 – Diplôme Approfondi de Langue Française**  
-  *Advanced French Diploma* — *January 2022*  
+  *Advanced French Diploma*  
   Official recognition of advanced French language proficiency, covering fluency in professional and academic communication.
 
 </details>
