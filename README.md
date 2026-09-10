@@ -37,6 +37,7 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -49,6 +50,7 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
 ### Frameworks & Libraries  
 
 <p>
+  <img alt=".NET" src="https://img.shields.io/badge/-.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -171,6 +173,9 @@ At heart, I’m a lifelong learner who loves to push the boundaries of what’s 
 
 - ✈️ **VoyageConnect – Travel Booking Platform** *(Jakarta EE, PostgreSQL, Docker)*  
   Comprehensive travel booking app for flights, hotels, and guided tours. Built with Jakarta EE MVC architecture, TailwindCSS interface, bcrypt authentication, and admin dashboard. Containerized with Docker, deployed on DigitalOcean via Coolify with SSL/TLS.
+
+- 💼 **JobConnect – Applicant Tracking System (ATS)** *(.NET 9, Angular 21, PostgreSQL 16, Docker Compose, 100ms)*  
+  A modern, full-featured Applicant Tracking System (ATS) connecting candidates with companies. Built with a .NET 9 REST API, Entity Framework Core, PostgreSQL, and an Angular 21 frontend. Features a dynamic CV builder with real-time preview, drag-and-drop Kanban hiring pipeline, 100ms HD video interview rooms with in-call chat and scheduling, persistent notifications, and an automated skill-matching score algorithm. Containerized with Docker Compose.
 
 - 🐳 **Budget Management App (Docker Swarm)** *(Angular, Node.js, PostgreSQL)*  
   Deployed a full-stack budget management application on a 3-node DigitalOcean Docker Swarm cluster with service replication and high availability.
